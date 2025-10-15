@@ -1,5 +1,5 @@
 <h1 align="left">Libft</h1>
-<div><img align="right" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"/> <h4 align="left">The first project on the 42sp fundamentals track, Libft, is about learning how standard C Programming functions actually work, recreating them, and recreating how they work. The functions present in this library are listed below.</h4></div>
+<div><h4 align="left">The first project on the 42sp fundamentals track, Libft, is about learning how standard C Programming functions actually work, recreating them, and recreating how they work. The functions present in this library are listed below.</h4></div>
 
 
 <div> <h2>Libc Functions</h2>
